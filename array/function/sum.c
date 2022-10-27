@@ -1,4 +1,4 @@
-#include<stdio.h>
+// sum of n numbers using function....
 int sum(){
     int a[100],i,n,sum=0;
     printf("enter the limit:\n");
