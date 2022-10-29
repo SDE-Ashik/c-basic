@@ -13,5 +13,7 @@ int sum(){
 }
 void main()
 {
+    printf("\t \t sum of the numbers\n ");
+
     sum();
 }
